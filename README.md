@@ -3,6 +3,10 @@
 ### Para criação e configurar ambiente virtual no VS Code:
 > [Youtube Otávio Miranda - Configuração Ambiente Virtual - VS Code](https://www.youtube.com/watch?v=m1TYpvIYm74&t=268s)
 
+### Liberar o PowerShell como Adim
+    Botão Direito no simbolo do windows e clicar no PoweShell Admin, digita o comando abaixo:
+    Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+
 # Alguns Comandos:
 Acessar pasta onde consta o ambiente virtual configurado.
 
